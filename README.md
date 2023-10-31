@@ -7,7 +7,7 @@
 #### Sobre a Arquitetura do Projeto:
  ![Arquitetura My Finance](/docs/MyFinanceWeb-ModelagemArquitetural.png)
 
-### Packages Instalados:
+### Packages Utilizados:
 ####  Front-End: 
 - Razor:
   - https://learn.microsoft.com/pt-br/aspnet/core/mvc/views/razor?view=aspnetcore-7.0
